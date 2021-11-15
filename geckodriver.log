@@ -1,0 +1,12 @@
+1636945663627	geckodriver	INFO	Listening on 127.0.0.1:55951
+1636945666655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55952" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileLNTyHH"
+1636945666882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileLNTyHH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55952/devtools/browser/7edc4fe9-4861-4300-b8f1-94ea77319689
+1636945668510	Marionette	INFO	Listening on port 55957
+1636945668710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1636945673417	Marionette	INFO	Stopped listening on port 55957
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
